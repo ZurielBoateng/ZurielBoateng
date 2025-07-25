@@ -1,5 +1,10 @@
-### Hi there 👋
+### 👋 Hi, I'm Zuriel — DevOps Generalist (*^_^*)
 
+## 🧰 About Me
+
+- 🔧 DevOps Engineer with a passion for automation, infrastructure as code (IaC), CI/CD, and cloud technologies.
+- 💼 Currently working on scaling and automating cloud-native infrastructure.
+- 🌱 Always learning new tools and techniques in DevOps, SRE, and cloud architecture.
 <!--
 **ZurielBoateng/ZurielBoateng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
