@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Zuriel — DevOps Generalist (*^_^*)
+### 👋 Hi, I'm Zuriel, a DevOps Generalist (*^_^*)
 
 ## 🧰 About Me
 
